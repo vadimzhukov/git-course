@@ -1,2 +1,3 @@
-# Header obviously
+# Git-learning course
 
+Here will be information
